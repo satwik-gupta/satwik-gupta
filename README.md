@@ -244,7 +244,22 @@ Modular Java runtime for orchestrating agents, tools, workflows, and LLM provide
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/satwik-gupta/satwik-gupta/blob/output/github-contribution-grid-snake.svg" />
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/satwik-gupta/satwik-gupta/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/satwik-gupta/satwik-gupta/blob/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution snake"
+    src="https://github.com/satwik-gupta/satwik-gupta/blob/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 </p>
 
 ---
