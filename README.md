@@ -117,7 +117,7 @@ Good engineering is not about adding more AI. It's about making software reliabl
 
 ## Contact
 
-📧 [your-email@example.com](mailto:satwikgupta91@gmail.com)
+📧 [satwikgupta91@gmail.com](mailto:satwikgupta91@gmail.com)
 
 💼 LinkedIn: https://linkedin.com/in/satwik-g
 
